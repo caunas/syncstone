@@ -1,4 +1,9 @@
-# syncstone
+```
+ /\_/\\
+( o.o )   [Syncstone]
+ > ^ <
+```
+---
 A simple git client for adventurers with mods
 
 --
